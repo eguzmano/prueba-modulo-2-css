@@ -79,12 +79,12 @@ body {
 .menu li {
   margin: 15px 20px;
   padding: 5px 0;
+  transition: all 0.2s;
 }
 
 .menu li a {
   text-decoration: none;
   color: #fff;
-  transition: all 0.2s;
 }
 
 .menu li:hover {
